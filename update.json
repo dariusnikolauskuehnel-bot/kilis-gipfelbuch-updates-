@@ -1,13 +1,13 @@
 {
-  "versionCode": 27,
-  "versionName": "1.6.3",
+  "versionCode": 28,
+  "versionName": "1.7.0",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "0f60ab0ea56d89395272674528d80eb8837e28970947a513af6e21ec99610291",
+  "sha256": "74645dcfca22bdbb00167e655a269dc2de0f1f9bbd5f38b1761bc135516a767c",
   "notes": [
-    "Neu: Eigene Termine auf Wunsch auch für Geschwister speichern – jedes Kind bekommt eine eigene Kopie.",
-    "Bei Geschwistern mit gleichem Geburtstag (Zwillinge) gilt der Status von Vorsorge und Impfungen auf Wunsch für beide.",
-    "Neu: Kind schon vor der Geburt anlegen („Noch nicht geboren“, errechneter Termin). Bis dahin zeigt die App eine Vorfreude-Ansicht, ohne Vorsorge- oder Impf-Erinnerungen.",
-    "Mit „… ist da!“ trägst du das echte Geburtsdatum ein; ab dann ist alles wie gewohnt. Ist der Termin erreicht, erinnert dich eine Karte auf Heute daran."
+    "Neu: „Unsere Gipfelmomente“ unter Mehr – eine Zeitleiste der schönsten Momente je Kind, automatisch aus euren Einträgen: Geburt, Gipfel mit Foto, erstes Zähnchen, erstes Essen und Wachstumsgipfel. Impfungen und Termine gehören nicht dazu.",
+    "Neu: Ein Brief für dein Kind – du schreibst ihn selbst (mit Mikrofon), die App schlägt keinen Text vor. Auf Wunsch zum Vorlesen (wenn dein Handy es kann) und als PDF zum Teilen.",
+    "Der Brief ist in Sicherung und QR-Übertragung enthalten und lässt sich optional an das Rückblick-PDF anhängen.",
+    "Die Kachel lässt sich unter Einstellungen ausblenden – Brief und Einträge bleiben erhalten."
   ],
   "datum": "12.11.2026",
   "fahrplan": [
