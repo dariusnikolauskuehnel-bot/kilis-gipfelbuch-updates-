@@ -1,13 +1,13 @@
 {
-  "versionCode": 26,
-  "versionName": "1.6.2",
+  "versionCode": 27,
+  "versionName": "1.6.3",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "499ec2a4e44450219852fa004aac1d812ecc18f43078da612a31152f5e5ffad6",
+  "sha256": "0f60ab0ea56d89395272674528d80eb8837e28970947a513af6e21ec99610291",
   "notes": [
-    "Widget und Schnell-Kachel tragen die Windel beim gerade gewählten Kind ein – auch wenn die App erst später geöffnet wird.",
-    "Die Datensicherung enthält alle Kinder mit Profilbildern und auf Wunsch allen Gipfel-Fotos.",
-    "QR-Übertragung: Jedes Kind wird nur mit demselben Kind zusammengeführt; ein Kind, das hier noch fehlt, kommt dazu. Das Wochen-Update gilt für das gerade gewählte Kind.",
-    "CSV, Rückblick und Arztbericht tragen den Namen des Kindes im Dateinamen."
+    "Neu: Eigene Termine auf Wunsch auch für Geschwister speichern – jedes Kind bekommt eine eigene Kopie.",
+    "Bei Geschwistern mit gleichem Geburtstag (Zwillinge) gilt der Status von Vorsorge und Impfungen auf Wunsch für beide.",
+    "Neu: Kind schon vor der Geburt anlegen („Noch nicht geboren“, errechneter Termin). Bis dahin zeigt die App eine Vorfreude-Ansicht, ohne Vorsorge- oder Impf-Erinnerungen.",
+    "Mit „… ist da!“ trägst du das echte Geburtsdatum ein; ab dann ist alles wie gewohnt. Ist der Termin erreicht, erinnert dich eine Karte auf Heute daran."
   ],
   "datum": "12.11.2026",
   "fahrplan": [
