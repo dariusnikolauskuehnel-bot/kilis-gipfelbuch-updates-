@@ -1,13 +1,13 @@
 {
-  "versionCode": 28,
-  "versionName": "1.7.0",
+  "versionCode": 29,
+  "versionName": "1.8.0",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "74645dcfca22bdbb00167e655a269dc2de0f1f9bbd5f38b1761bc135516a767c",
+  "sha256": "4e74358ebb13959e204f2f88614140c144dba6e9825da9d129f0940fd84eeb9a",
   "notes": [
-    "Neu: „Unsere Gipfelmomente“ unter Mehr – eine Zeitleiste der schönsten Momente je Kind, automatisch aus euren Einträgen: Geburt, Gipfel mit Foto, erstes Zähnchen, erstes Essen und Wachstumsgipfel. Impfungen und Termine gehören nicht dazu.",
-    "Neu: Ein Brief für dein Kind – du schreibst ihn selbst (mit Mikrofon), die App schlägt keinen Text vor. Auf Wunsch zum Vorlesen (wenn dein Handy es kann) und als PDF zum Teilen.",
-    "Der Brief ist in Sicherung und QR-Übertragung enthalten und lässt sich optional an das Rückblick-PDF anhängen.",
-    "Die Kachel lässt sich unter Einstellungen ausblenden – Brief und Einträge bleiben erhalten."
+    "Neu: Der Rückblick kann jetzt Woche, Monat, Lebensjahr oder einen eigenen Zeitraum – mit Blättern vor und zurück und derselben Rechnung für alle Zahlen.",
+    "Woche: Schlaf, Mahlzeiten, Windeln, Fieber, Medikamente und neue Gipfel, dazu ein kleines Diagramm. Monat: zusätzlich der Vergleich zum Vormonat.",
+    "Lebensjahr als Erinnerungsheft: Deckblatt, Wachstumskurve, alle Gipfelmomente, Zähnchen-Zeitleiste und Lieblings-Statistiken – auf Wunsch mit Brief und selbst ausgewählten Fotos (Standard: ohne Fotos).",
+    "Neu: Drucken mit A4-Vorschau – druckerfreundlich ohne farbige Flächen – beim Rückblick, bei den Gipfelmomenten, beim Arztbericht und beim Wachstum. „Als PDF teilen“ bleibt als Weg dazu."
   ],
   "datum": "12.11.2026",
   "fahrplan": [
