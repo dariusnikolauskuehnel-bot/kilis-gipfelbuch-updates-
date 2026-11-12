@@ -1,0 +1,51 @@
+{
+  "versionCode": 26,
+  "versionName": "1.6.2",
+  "apk": "KilisGipfelbuch-aktuell.apk",
+  "sha256": "499ec2a4e44450219852fa004aac1d812ecc18f43078da612a31152f5e5ffad6",
+  "notes": [
+    "Widget und Schnell-Kachel tragen die Windel beim gerade gewählten Kind ein – auch wenn die App erst später geöffnet wird.",
+    "Die Datensicherung enthält alle Kinder mit Profilbildern und auf Wunsch allen Gipfel-Fotos.",
+    "QR-Übertragung: Jedes Kind wird nur mit demselben Kind zusammengeführt; ein Kind, das hier noch fehlt, kommt dazu. Das Wochen-Update gilt für das gerade gewählte Kind.",
+    "CSV, Rückblick und Arztbericht tragen den Namen des Kindes im Dateinamen."
+  ],
+  "datum": "12.11.2026",
+  "fahrplan": [
+    {
+      "version": "1.5.1",
+      "text": "Dieses Fenster: Du siehst jetzt immer, was als Nächstes für dich und Kili kommt.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.5.2",
+      "text": "3D-Ansicht für die ersten Zähnchen: einfach auf den richtigen Zahn tippen, ganz ohne Suchen.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.6.1",
+      "text": "Mehrere Kinder mit eigenem Tagebuch, eigenen Zähnen und Impfungen – aufgeräumt und noch sicherer.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.6.2",
+      "text": "Widget, Schnell-Kachel, Rückblick und Sicherung für alle Kinder.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.6.3",
+      "text": "Geschwister-Komfort und Vorfreude-Ansicht für ein Kind, das noch kommt.",
+      "zeit": "heute Abend",
+      "status": "in Arbeit"
+    },
+    {
+      "version": "1.7.0",
+      "text": "Eine kleine Überraschung folgt.",
+      "zeit": "bald",
+      "status": "geplant"
+    }
+  ]
+}
