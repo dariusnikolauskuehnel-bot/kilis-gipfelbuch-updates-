@@ -1,13 +1,12 @@
 {
-  "versionCode": 31,
-  "versionName": "1.8.2",
+  "versionCode": 32,
+  "versionName": "1.8.3",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "55af6379136e139f692b1165455e16feb59f7028a7d9daca095644ae102a5a0b",
+  "sha256": "c22983776d67308bb4db01044c6fe419e91943e1ac85f65651a86197cdc42fb9",
   "notes": [
-    "Zurück führt jetzt genau an die Stelle der vorherigen Seite, an der du warst – auch nach Kindwechsel, Fenstern, Detailseiten und mit der Zurück-Taste.",
-    "Neue Seiten beginnen wie gewohnt oben; scrollst du selbst, gewinnt sofort deine Bewegung.",
-    "„Rückgängig“ wird beim Kindwechsel ausgeblendet und landet so nie beim falschen Kind.",
-    "Kleine Aufräumarbeiten im Hintergrund."
+    "Langer Druck auf eine Taste führt jetzt ihre Aktion aus – genau einmal.",
+    "Löschen und Zurücksetzen fragen auch beim langen Druck weiterhin sicher nach.",
+    "Scrollen, Text markieren und die Fragezeichen-Hilfe funktionieren wie gewohnt; Tasten mit eigener Lang-Druck-Funktion (z. B. Nachtragen) bleiben unverändert."
   ],
   "datum": "13.11.2026",
   "fahrplan": [
