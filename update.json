@@ -36,12 +36,6 @@
       "status": "fertig"
     },
     {
-      "version": "1.6.3",
-      "text": "Geschwister-Komfort und Vorfreude-Ansicht für ein Kind, das noch kommt.",
-      "zeit": "schon da",
-      "status": "fertig"
-    },
-    {
       "version": "1.7.0",
       "text": "Unsere Gipfelmomente: die schönsten Momente als Zeitleiste und ein Brief für dein Kind.",
       "zeit": "schon da",
@@ -81,6 +75,12 @@
       "version": "1.8.5",
       "text": "Neues App-Symbol und Feedback ganz einfach per E-Mail.",
       "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.9.0",
+      "text": "Start und Stopp für Flasche, Brei, Mahlzeit und Aktivität – ganz ohne Tippen von Uhrzeiten.",
+      "zeit": "heute",
       "status": "fertig"
     }
   ]
