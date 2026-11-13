@@ -1,13 +1,13 @@
 {
-  "versionCode": 34,
-  "versionName": "1.8.5",
+  "versionCode": 35,
+  "versionName": "1.9.0",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "b05ad49a835213aa7e53c1b208bb58e8a2ec854ad020dc712c861eecf12bd409",
+  "sha256": "8bf75ef7887d3809adbec8f2c3daba57ed269ebff7d9d427869a436abc7ba0fa",
   "notes": [
-    "Neues App-Icon: ein Gipfel mit goldenen Sternen auf Petrolgrün – auf dem Startbildschirm (rund und eckig), in den Mitteilungen und beim Start.",
-    "Feedback nur noch per E-Mail: Die E-Mail-App öffnet sich mit deiner Nachricht, den Empfänger trägst du selbst ein. Der WhatsApp-Knopf ist entfernt.",
-    "Der Tagesbericht wird über das Teilen-Menü deines Handys geteilt.",
-    "Alle Einträge, Fotos und Einstellungen bleiben unverändert."
+    "Neuer Timer-Knopf bei Flasche, Brei, Mahlzeit und Aktivität: Start und Stopp mit einem Tipp.",
+    "Die laufenden Timer bleiben unten sichtbar, mehrere gleichzeitig sind möglich.",
+    "Beim Stopp sind Beginn, Ende und bei Aktivitäten die Minuten schon eingetragen.",
+    "Abbrechen lässt den Timer weiterlaufen, Rückgängig holt ihn nach dem Speichern zurück."
   ],
   "datum": "13.11.2026",
   "fahrplan": [
