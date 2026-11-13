@@ -1,13 +1,14 @@
 {
-  "versionCode": 35,
-  "versionName": "1.9.0",
+  "versionCode": 36,
+  "versionName": "1.9.1",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "8bf75ef7887d3809adbec8f2c3daba57ed269ebff7d9d427869a436abc7ba0fa",
+  "sha256": "ac1f0e0e956caf2a79157906203ece752ac8293d731c7fa0546aa03497d73c3d",
   "notes": [
-    "Neuer Timer-Knopf bei Flasche, Brei, Mahlzeit und Aktivität: Start und Stopp mit einem Tipp.",
-    "Die laufenden Timer bleiben unten sichtbar, mehrere gleichzeitig sind möglich.",
-    "Beim Stopp sind Beginn, Ende und bei Aktivitäten die Minuten schon eingetragen.",
-    "Abbrechen lässt den Timer weiterlaufen, Rückgängig holt ihn nach dem Speichern zurück."
+    "Beginn nachträglich ändern: Uhr in der Leiste unten, z. B. „vor 5 Min“ – ohne auf das Aufwachen zu warten.",
+    "Übergabezettel: Hinweise für Oma oder Babysitter, als PDF oder Nachricht teilbar.",
+    "Automatisch dabei: Allergien, Notfallnummern und was heute schon war.",
+    "Dokumentenmappe: Fotos von Gelbem Heft, Impfpass und Versichertenkarte, verschlüsselt auf dem Handy.",
+    "Die Mappe ist auch in der Notfallkarte erreichbar; die Fotos sind nicht in der Datensicherung."
   ],
   "datum": "13.11.2026",
   "fahrplan": [
