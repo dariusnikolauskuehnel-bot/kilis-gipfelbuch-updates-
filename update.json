@@ -48,12 +48,6 @@
       "status": "fertig"
     },
     {
-      "version": "1.8.2",
-      "text": "Zurück führt genau an die Stelle, an der du warst – auch nach Kindwechsel und Fenstern.",
-      "zeit": "schon da",
-      "status": "fertig"
-    },
-    {
       "version": "1.8.3",
       "text": "Lang drücken: jede Taste reagiert auch auf einen langen Druck – Löschen fragt weiter sicher nach.",
       "zeit": "schon da",
@@ -80,6 +74,12 @@
     {
       "version": "1.9.1",
       "text": "Übergabezettel für Oma und Babysitter und eine verschlüsselte Dokumentenmappe.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.9.2",
+      "text": "Rhythmus: der typische Tag deines Kindes aus deinen Einträgen, mit Zeitleiste und Vorhersage für das nächste Nickerchen.",
       "zeit": "heute",
       "status": "fertig"
     }
