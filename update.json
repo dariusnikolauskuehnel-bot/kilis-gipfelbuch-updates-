@@ -1,14 +1,13 @@
 {
-  "versionCode": 38,
-  "versionName": "1.10.0",
+  "versionCode": 39,
+  "versionName": "1.10.1",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "5de8a3ae9738fdab661c2846a3dcd7be4f81a75cf30f96191b6a9ab2f3403a44",
+  "sha256": "063c6c56273add1d943f0552c2ba7ddade0fb7b88651d3f01f6c84d62d570e71",
   "notes": [
-    "Neu unter Einstellungen: „Gemeinsamer Stand“ – Papa und Mama sehen dieselben Einträge.",
-    "Freiwillig und nur mit deiner Zustimmung: Ihr wählt beide denselben Ordner in eurer eigenen Cloud.",
-    "Laufende Timer (z. B. Schlaf) sehen beide.",
-    "Änderungen und Löschungen kommen auf dem anderen Handy an.",
-    "Kein Server, kein Konto in der App. Ausschalten jederzeit möglich."
+    "Neu: Ruhig-Modus unter Einstellungen – gedimmt, warm, ohne Bewegung, größere Tasten (aus, nachts automatisch oder an).",
+    "Neu: Laufende Timer auch auf dem Sperrbildschirm, mit Stoppuhr und Stopp-Knopf. Gesperrt steht nur „Timer läuft“.",
+    "Der Stopp vom Sperrbildschirm wird beim nächsten Öffnen mit der Uhrzeit deines Tipps gespeichert. Beim ersten Mal bitte ausprobieren.",
+    "Neu: „Wie zuletzt“ bei Flasche, Brei, Mahlzeit und Aktivität."
   ],
   "datum": "13.11.2026",
   "fahrplan": [
