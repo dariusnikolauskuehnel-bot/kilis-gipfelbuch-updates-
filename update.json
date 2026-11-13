@@ -49,12 +49,6 @@
       "status": "fertig"
     },
     {
-      "version": "1.8.3",
-      "text": "Lang drücken: jede Taste reagiert auch auf einen langen Druck – Löschen fragt weiter sicher nach.",
-      "zeit": "schon da",
-      "status": "fertig"
-    },
-    {
       "version": "1.8.4",
       "text": "Agas KI nur, wenn du sie einschaltest – mit klarer Einwilligung und jederzeit abschaltbar.",
       "zeit": "schon da",
@@ -81,6 +75,12 @@
     {
       "version": "1.9.2",
       "text": "Rhythmus: der typische Tag deines Kindes aus deinen Einträgen, mit Zeitleiste und Vorhersage für das nächste Nickerchen.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.10.0",
+      "text": "Gemeinsamer Stand: Papa und Mama sehen dieselben Einträge – freiwillig, über einen gemeinsamen Ordner in eurer eigenen Cloud.",
       "zeit": "heute",
       "status": "fertig"
     }
