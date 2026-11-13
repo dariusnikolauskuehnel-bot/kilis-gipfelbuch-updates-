@@ -1,17 +1,13 @@
 {
-  "versionCode": 30,
-  "versionName": "1.8.1",
+  "versionCode": 31,
+  "versionName": "1.8.2",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "9f7b4a1e82ea64f690017202752c0277a9c77a4f55e219705d7a632cfbacfd66",
+  "sha256": "55af6379136e139f692b1165455e16feb59f7028a7d9daca095644ae102a5a0b",
   "notes": [
-    "Einstellungen: Spitzname und dein Name sind freiwillig; Kinddaten lassen sich bis zum 6. Geburtstag und für ein Kind, das noch kommt, speichern.",
-    "QR-Übertragung „Ersetzen“ mit mehreren Kindern: Fotos und Profilbilder bleiben beim richtigen Kind.",
-    "Wochen-Update erkennt Zwillinge und Geschwister mit gleichem Geburtstag (ältere Versionen funktionieren weiter).",
-    "Zeitumstellung: Schlaf über Nacht und Erinnerungen stimmen auch an diesen Tagen.",
-    "Mehr Schutz bei beschädigten oder eingelesenen Daten: keine leere Seite mehr, sondern Hilfe zum Sichern.",
-    "Rückblick: gut lesbare Beschriftungen bei langen Zeiträumen, genauere Durchschnittswerte und Neustart beim Kindwechsel.",
-    "Drucken und PDF: Namen mit Sonderzeichen (z. B. Ł, ş), Tabellenkopf auf jeder Seite, keine leere letzte Seite.",
-    "Hilfe-Texte bei den Checklisten ergänzt, Datenschutz-Seite nennt jetzt auch das Drucken."
+    "Zurück führt jetzt genau an die Stelle der vorherigen Seite, an der du warst – auch nach Kindwechsel, Fenstern, Detailseiten und mit der Zurück-Taste.",
+    "Neue Seiten beginnen wie gewohnt oben; scrollst du selbst, gewinnt sofort deine Bewegung.",
+    "„Rückgängig“ wird beim Kindwechsel ausgeblendet und landet so nie beim falschen Kind.",
+    "Kleine Aufräumarbeiten im Hintergrund."
   ],
   "datum": "13.11.2026",
   "fahrplan": [
