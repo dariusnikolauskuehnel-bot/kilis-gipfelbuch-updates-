@@ -1,15 +1,19 @@
 {
-  "versionCode": 29,
-  "versionName": "1.8.0",
+  "versionCode": 30,
+  "versionName": "1.8.1",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "4e74358ebb13959e204f2f88614140c144dba6e9825da9d129f0940fd84eeb9a",
+  "sha256": "9f7b4a1e82ea64f690017202752c0277a9c77a4f55e219705d7a632cfbacfd66",
   "notes": [
-    "Neu: Der Rückblick kann jetzt Woche, Monat, Lebensjahr oder einen eigenen Zeitraum – mit Blättern vor und zurück und derselben Rechnung für alle Zahlen.",
-    "Woche: Schlaf, Mahlzeiten, Windeln, Fieber, Medikamente und neue Gipfel, dazu ein kleines Diagramm. Monat: zusätzlich der Vergleich zum Vormonat.",
-    "Lebensjahr als Erinnerungsheft: Deckblatt, Wachstumskurve, alle Gipfelmomente, Zähnchen-Zeitleiste und Lieblings-Statistiken – auf Wunsch mit Brief und selbst ausgewählten Fotos (Standard: ohne Fotos).",
-    "Neu: Drucken mit A4-Vorschau – druckerfreundlich ohne farbige Flächen – beim Rückblick, bei den Gipfelmomenten, beim Arztbericht und beim Wachstum. „Als PDF teilen“ bleibt als Weg dazu."
+    "Einstellungen: Spitzname und dein Name sind freiwillig; Kinddaten lassen sich bis zum 6. Geburtstag und für ein Kind, das noch kommt, speichern.",
+    "QR-Übertragung „Ersetzen“ mit mehreren Kindern: Fotos und Profilbilder bleiben beim richtigen Kind.",
+    "Wochen-Update erkennt Zwillinge und Geschwister mit gleichem Geburtstag (ältere Versionen funktionieren weiter).",
+    "Zeitumstellung: Schlaf über Nacht und Erinnerungen stimmen auch an diesen Tagen.",
+    "Mehr Schutz bei beschädigten oder eingelesenen Daten: keine leere Seite mehr, sondern Hilfe zum Sichern.",
+    "Rückblick: gut lesbare Beschriftungen bei langen Zeiträumen, genauere Durchschnittswerte und Neustart beim Kindwechsel.",
+    "Drucken und PDF: Namen mit Sonderzeichen (z. B. Ł, ş), Tabellenkopf auf jeder Seite, keine leere letzte Seite.",
+    "Hilfe-Texte bei den Checklisten ergänzt, Datenschutz-Seite nennt jetzt auch das Drucken."
   ],
-  "datum": "12.11.2026",
+  "datum": "13.11.2026",
   "fahrplan": [
     {
       "version": "1.5.1",
