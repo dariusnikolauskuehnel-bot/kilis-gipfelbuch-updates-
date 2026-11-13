@@ -58,6 +58,30 @@
       "text": "Feinschliff: alles läuft runder – Rückblick, Drucken, Zeitumstellung, Zwillinge und noch mehr Schutz für deine Daten.",
       "zeit": "schon da",
       "status": "fertig"
+    },
+    {
+      "version": "1.8.2",
+      "text": "Zurück führt genau an die Stelle, an der du warst – auch nach Kindwechsel und Fenstern.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.8.3",
+      "text": "Lang drücken: jede Taste reagiert auch auf einen langen Druck – Löschen fragt weiter sicher nach.",
+      "zeit": "heute",
+      "status": "in Arbeit"
+    },
+    {
+      "version": "1.8.4",
+      "text": "Agas KI nur, wenn du sie einschaltest – mit klarer Einwilligung und jederzeit abschaltbar.",
+      "zeit": "heute",
+      "status": "geplant"
+    },
+    {
+      "version": "1.9.0",
+      "text": "Neues App-Symbol und Feedback ganz einfach per E-Mail.",
+      "zeit": "heute",
+      "status": "geplant"
     }
   ]
 }
