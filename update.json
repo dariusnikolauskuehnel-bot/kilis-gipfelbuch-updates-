@@ -30,12 +30,6 @@
       "status": "fertig"
     },
     {
-      "version": "1.6.2",
-      "text": "Widget, Schnell-Kachel, Rückblick und Sicherung für alle Kinder.",
-      "zeit": "schon da",
-      "status": "fertig"
-    },
-    {
       "version": "1.7.0",
       "text": "Unsere Gipfelmomente: die schönsten Momente als Zeitleiste und ein Brief für dein Kind.",
       "zeit": "schon da",
@@ -80,6 +74,12 @@
     {
       "version": "1.10.0",
       "text": "Gemeinsamer Stand: Papa und Mama sehen dieselben Einträge – freiwillig, über einen gemeinsamen Ordner in eurer eigenen Cloud.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.10.1",
+      "text": "Ruhig-Modus für die Nacht, „Wie zuletzt“ mit einem Tipp und Timer auf dem Sperrbildschirm mit Stopp-Knopf.",
       "zeit": "heute",
       "status": "fertig"
     }
