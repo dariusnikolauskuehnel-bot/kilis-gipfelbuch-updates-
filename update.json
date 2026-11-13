@@ -49,12 +49,6 @@
       "status": "fertig"
     },
     {
-      "version": "1.8.1",
-      "text": "Feinschliff: alles läuft runder – Rückblick, Drucken, Zeitumstellung, Zwillinge und noch mehr Schutz für deine Daten.",
-      "zeit": "schon da",
-      "status": "fertig"
-    },
-    {
       "version": "1.8.2",
       "text": "Zurück führt genau an die Stelle, an der du warst – auch nach Kindwechsel und Fenstern.",
       "zeit": "schon da",
@@ -81,6 +75,12 @@
     {
       "version": "1.9.0",
       "text": "Start und Stopp für Flasche, Brei, Mahlzeit und Aktivität – ganz ohne Tippen von Uhrzeiten.",
+      "zeit": "schon da",
+      "status": "fertig"
+    },
+    {
+      "version": "1.9.1",
+      "text": "Übergabezettel für Oma und Babysitter und eine verschlüsselte Dokumentenmappe.",
       "zeit": "heute",
       "status": "fertig"
     }
