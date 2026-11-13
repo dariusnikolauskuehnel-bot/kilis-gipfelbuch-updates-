@@ -1,13 +1,14 @@
 {
-  "versionCode": 37,
-  "versionName": "1.9.2",
+  "versionCode": 38,
+  "versionName": "1.10.0",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "f7e5615dd77f7b431e2b45c0d10662fdc5f0faa78a19cf1d1214d88392e4f08a",
+  "sha256": "5de8a3ae9738fdab661c2846a3dcd7be4f81a75cf30f96191b6a9ab2f3403a44",
   "notes": [
-    "Neue Seite „Rhythmus“ unter Mehr: typischer Tag aus 7, 14 oder 28 Tagen.",
-    "Zeitleiste für den Schlaf, die sich automatisch verschiebt.",
-    "Hinweis, wann das nächste Nickerchen voraussichtlich ansteht (erst nach einigen Tagen mit Einträgen).",
-    "Typischer Tag auch für Mahlzeiten und Windeln."
+    "Neu unter Einstellungen: „Gemeinsamer Stand“ – Papa und Mama sehen dieselben Einträge.",
+    "Freiwillig und nur mit deiner Zustimmung: Ihr wählt beide denselben Ordner in eurer eigenen Cloud.",
+    "Laufende Timer (z. B. Schlaf) sehen beide.",
+    "Änderungen und Löschungen kommen auf dem anderen Handy an.",
+    "Kein Server, kein Konto in der App. Ausschalten jederzeit möglich."
   ],
   "datum": "13.11.2026",
   "fahrplan": [
