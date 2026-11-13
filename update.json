@@ -1,12 +1,13 @@
 {
-  "versionCode": 32,
-  "versionName": "1.8.3",
+  "versionCode": 33,
+  "versionName": "1.8.4",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "c22983776d67308bb4db01044c6fe419e91943e1ac85f65651a86197cdc42fb9",
+  "sha256": "789152fb5c36cc171bf0f827eeb46f9dde3ff90119b851459e879260e9f4364a",
   "notes": [
-    "Langer Druck auf eine Taste führt jetzt ihre Aktion aus – genau einmal.",
-    "Löschen und Zurücksetzen fragen auch beim langen Druck weiterhin sicher nach.",
-    "Scrollen, Text markieren und die Fragezeichen-Hilfe funktionieren wie gewohnt; Tasten mit eigener Lang-Druck-Funktion (z. B. Nachtragen) bleiben unverändert."
+    "Agas KI ist jetzt freiwillig und zu Beginn ausgeschaltet. Vor der ersten Nutzung fragt die App nach deiner Einwilligung und erklärt, welche Daten an Anthropic (USA) gehen.",
+    "Unter Einstellungen › Agas KI schaltest du sie jederzeit ein oder aus. Ausgeschaltet wird nichts an eine KI gesendet; dein Code bleibt auf dem Gerät.",
+    "Nur noch Claude: Die anderen KI-Anbieter sind aus App, Hilfe und Datenschutz-Seite entfernt.",
+    "Die Einwilligung bleibt auf diesem Handy – sie ist nicht in der Sicherung und wird nicht per QR übertragen."
   ],
   "datum": "13.11.2026",
   "fahrplan": [
