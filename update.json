@@ -1,15 +1,14 @@
 {
-  "versionCode": 39,
-  "versionName": "1.10.1",
+  "versionCode": 40,
+  "versionName": "1.10.2",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "063c6c56273add1d943f0552c2ba7ddade0fb7b88651d3f01f6c84d62d570e71",
+  "sha256": "a24c8fa73871b0159f082d6462500241566d982402504e6754ef80074c54b6b0",
   "notes": [
-    "Neu: Ruhig-Modus unter Einstellungen – gedimmt, warm, ohne Bewegung, größere Tasten (aus, nachts automatisch oder an).",
-    "Neu: Laufende Timer auch auf dem Sperrbildschirm, mit Stoppuhr und Stopp-Knopf. Gesperrt steht nur „Timer läuft“.",
-    "Der Stopp vom Sperrbildschirm wird beim nächsten Öffnen mit der Uhrzeit deines Tipps gespeichert. Beim ersten Mal bitte ausprobieren.",
-    "Neu: „Wie zuletzt“ bei Flasche, Brei, Mahlzeit und Aktivität."
+    "Neu: Kacheln im Tagesblick (Stillen, Flasche, Brei, Windeln, Schlaf und mehr) antippen trägt schnell ein, lange drücken öffnet den Eintrag zum Anpassen.",
+    "Stillen und Schlaf starten oder stoppen mit einem Tipp auf die Kachel.",
+    "Kleiner Tipp-Hinweis unter dem Tagesblick."
   ],
-  "datum": "13.11.2026",
+  "datum": "14.11.2026",
   "fahrplan": [
     {
       "version": "1.5.1",
