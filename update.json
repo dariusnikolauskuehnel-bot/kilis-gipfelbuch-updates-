@@ -1,15 +1,14 @@
 {
-  "versionCode": 41,
-  "versionName": "1.11.0",
+  "versionCode": 43,
+  "versionName": "1.11.2",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "c696297ef4dd16117e0f72cfc048726702972186551207477d8f1fed8f521253",
+  "sha256": "59b56b297610c575bca2891ef8c163f039940aa554939b0ef0b35178fae51068",
   "notes": [
-    "Neu: Unter Mehr „Meine eigene KI“ – Frage schreiben oder sprechen, Text ansehen, dann ChatGPT, Gemini, Claude, Copilot, Perplexity oder eine andere KI deiner Wahl öffnen. Ohne Schlüssel, ohne Konto in der App.",
-    "Die Funken an den Feldern, die Suche und die Wissens- und Wetter-Seite führen jetzt zu „Meine eigene KI“ – mit einer passenden Frage, die du ändern kannst.",
-    "Die KI direkt in der App ist jetzt eine freiwillige Hilfe zum Eintragen und Formulieren (Sag es der KI, Formulare, Foto auslesen). Wichtig: Sie gibt keine Gesundheitsauskünfte mehr; Fragen stellst du bei „Meine eigene KI“.",
-    "Mehr Sicherheit beim Einlesen einer Sicherung und beim Ersetzen per QR-Code: Die App zeigt vorher, was dann noch da ist, und fragt extra nach, bevor ein Kind verschwinden würde. Danach geht es weiterhin zurückzunehmen.",
-    "Deine Daten bleiben unverändert: Einträge, Fotos, Gipfel, Einstellungen und alle gespeicherten Zugänge bleiben erhalten; es gibt keine neue Einrichtung und keine neue Einwilligung.",
-    "Bitte ausprobieren (konnte ich nicht auf einem Handy testen): „Meine eigene KI“ mit deiner KI-App öffnen – ob der Text dort schon in der Frage steht oder kopiert wird, hängt von der App ab. Und prüf bitte, ob dein Einrichtungscode unter Einstellungen weiterhin funktioniert."
+    "Neu formuliert: die Wissens-Themen (Schlaf, Wachstum, Beikost, Sicherheit, Zähne, Entwicklung, Fieber, Kita) und die Monats-Hinweise.",
+    "Neu formuliert: die Beikost- und Allergie-Hinweise im Breiplan.",
+    "Neuer Hinweis in der App: Die Texte sind eine Kurzfassung zur Orientierung und kein Ersatz für ärztlichen Rat.",
+    "Deine Daten bleiben unverändert: Einträge, Fotos, Gipfel und Einstellungen bleiben erhalten, es gibt nichts neu einzurichten.",
+    "Bitte ausprobieren (konnte ich nicht auf einem Handy testen): Unter Wissen einen Monat und unter Mehr „Beikost & Allergene“ öffnen und schauen, ob alles gut lesbar ist und nichts abgeschnitten wirkt."
   ],
   "datum": "15.11.2026",
   "fahrplan": [
