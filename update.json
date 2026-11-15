@@ -1,14 +1,14 @@
 {
-  "versionCode": 43,
-  "versionName": "1.11.2",
+  "versionCode": 44,
+  "versionName": "1.11.3",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "59b56b297610c575bca2891ef8c163f039940aa554939b0ef0b35178fae51068",
+  "sha256": "1fbf331c479e9bebba78b3d457228760052aa8e0e1c014eae83cc750e9435fa3",
   "notes": [
-    "Neu formuliert: die Wissens-Themen (Schlaf, Wachstum, Beikost, Sicherheit, Zähne, Entwicklung, Fieber, Kita) und die Monats-Hinweise.",
-    "Neu formuliert: die Beikost- und Allergie-Hinweise im Breiplan.",
-    "Neuer Hinweis in der App: Die Texte sind eine Kurzfassung zur Orientierung und kein Ersatz für ärztlichen Rat.",
-    "Deine Daten bleiben unverändert: Einträge, Fotos, Gipfel und Einstellungen bleiben erhalten, es gibt nichts neu einzurichten.",
-    "Bitte ausprobieren (konnte ich nicht auf einem Handy testen): Unter Wissen einen Monat und unter Mehr „Beikost & Allergene“ öffnen und schauen, ob alles gut lesbar ist und nichts abgeschnitten wirkt."
+    "Neu formuliert: die Wissens-Themen, die Monats-Hinweise und die Beikost- und Allergie-Hinweise, mit dem neuen Hinweis, dass sie eine Kurzfassung zur Orientierung sind und kein Ersatz für ärztlichen Rat.",
+    "Neu: Sicherungsdatei und QR-Code funktionieren auch mit der zweiten App von Darius, in beide Richtungen. Vor dem Ersetzen zeigt die App, was danach noch da ist.",
+    "Im Fenster „Feedback & Support“ siehst du jetzt den Entwickler der App. Auf kleinen Displays ist der Fenstertitel nicht mehr angeschnitten.",
+    "Deine Daten bleiben unverändert: Einträge, Fotos, Gipfel, Einstellungen und deine „Neu probiert“-Einträge bleiben erhalten, es gibt nichts neu einzurichten.",
+    "Bitte ausprobieren (konnte ich nicht auf einem Handy testen): Unter Mehr „Feedback an Darius“ öffnen und schauen, ob das Foto scharf und gut platziert ist; unter Wissen einen Monat und unter Mehr „Beikost & Allergene“ öffnen und prüfen, ob alles gut lesbar ist. Den Datenaustausch kannst du erst testen, wenn du die zweite App hast."
   ],
   "datum": "15.11.2026",
   "fahrplan": [
