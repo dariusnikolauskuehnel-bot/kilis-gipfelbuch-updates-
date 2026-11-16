@@ -1,13 +1,14 @@
 {
-  "versionCode": 45,
-  "versionName": "1.11.4",
+  "versionCode": 46,
+  "versionName": "1.11.5",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "db82e4b3e87fab2073a9b8321010fd04d803061102c5c45cf8a1210f874e00b4",
+  "sha256": "407d8d43b895f05f2f05260c6bff99e61274f5aec1d175e07e705e8de150f324",
   "notes": [
-    "Neu: Bei jedem Schalter für die Eintragsarten (Einstellungen, „Das nutzen wir gerade“) gibt es ein Fragezeichen mit einer kurzen Erklärung.",
-    "Fragezeichen und Schalter stehen in allen Zeilen exakt untereinander, auch auf kleinen Displays und bei großer Schrift.",
+    "Eintragen-Fenster: Alle Kacheln einer Zeile sind gleich hoch, die Fragezeichen stehen genau untereinander und der Timer-Knopf verdeckt nichts mehr.",
+    "Meine eigene KI: Symbole und Texte der KI-Knöpfe stehen linksbündig in einer Linie, das Symbol im Einleitungstext steht neben dem Text und die Fragezeichen stehen in einer Spalte.",
+    "Das gilt auch bei großer Schrift und auf kleinen Displays.",
     "Deine Daten bleiben unverändert: Einträge, Fotos, Gipfel und Einstellungen bleiben erhalten, es gibt nichts neu einzurichten.",
-    "Bitte ausprobieren (konnte ich nicht auf einem Handy testen): Unter Einstellungen bei einer Eintragsart auf das Fragezeichen tippen und prüfen, ob der Text gut lesbar ist."
+    "Bitte ausprobieren (konnte ich nicht auf einem Handy testen): Das Fenster „Eintragen“ öffnen und prüfen, ob alle Kacheln gleich hoch sind. Dann bei „Meine eigene KI“ prüfen, ob alles gerade untereinander steht."
   ],
   "datum": "16.11.2026",
   "fahrplan": [
