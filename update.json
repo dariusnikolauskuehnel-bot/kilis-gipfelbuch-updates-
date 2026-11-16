@@ -2,7 +2,7 @@
   "versionCode": 46,
   "versionName": "1.11.5",
   "apk": "KilisGipfelbuch-aktuell.apk",
-  "sha256": "407d8d43b895f05f2f05260c6bff99e61274f5aec1d175e07e705e8de150f324",
+  "sha256": "d80d1a472da0e29ae8fa250f5804eb85004daa05ee8f693dd14b291fd579b705",
   "notes": [
     "Eintragen-Fenster: Alle Kacheln einer Zeile sind gleich hoch, die Fragezeichen stehen genau untereinander und der Timer-Knopf verdeckt nichts mehr.",
     "Meine eigene KI: Symbole und Texte der KI-Knöpfe stehen linksbündig in einer Linie, das Symbol im Einleitungstext steht neben dem Text und die Fragezeichen stehen in einer Spalte.",
